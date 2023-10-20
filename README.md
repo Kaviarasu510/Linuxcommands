@@ -17,7 +17,7 @@ All basic and advanced tasks can be done by executing commands. The commands are
 
 ## Commands:
 
-### 1)	ls Command
+#### 1)	ls Command
 
 The ls command is used to display a list of content of a directory.
 
